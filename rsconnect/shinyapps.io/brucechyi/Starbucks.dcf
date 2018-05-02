@@ -1,0 +1,13 @@
+name: Starbucks
+title: Starbucks
+username:
+account: brucechyi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 335470
+bundleId: 1350667
+url: https://brucechyi.shinyapps.io/Starbucks/
+when: 1525229554.32332
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|CleanData.R|country_codes.csv|population_us.csv|population_world.csv|starbucks_locations.csv
